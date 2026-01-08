@@ -1,2 +1,5 @@
-# onboarding-intern-hq
-Welcome to the team
+# Onboarding Intern HQ
+
+## Welcome to the team! 
+
+*You can safely ignore this repository if you aren't maintaining infrastrucuture.*
